@@ -2,5 +2,6 @@ torch
 pandas
 numpy
 scikit-learn
+joblib
 pyyaml
 pytest
